@@ -7,7 +7,8 @@ header('Access-Control-Allow-Origin: *');
 
 // ======= TES CLES VALIDES =======
 $validKeys = [
-    "3A2FC-8Q4T8-ZU-6M4CL" => "active",
+    "Demons-dev-key-noleak" => "active",
+    "Eway-skittle-base-invek" => "active",
     // Ajoute d'autres cles ici si besoin :
     // "XXXX-XXXX-XX-XXXXX" => "active",
 ];
